@@ -1,6 +1,6 @@
 {
     "name": "flagrow/auto-confirm-fix",
-    "description": "",
+    "description": "Fixes auto confirmation by bots that read your mailbox.",
     "keywords": [
         "extension",
         "flarum",
